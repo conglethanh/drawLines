@@ -1,0 +1,14 @@
+E:\Freshman\HK5\ComputerGraphic\DrawGraphics\Shape\bin\Debug\Shape.dll
+E:\Freshman\HK5\ComputerGraphic\DrawGraphics\Shape\bin\Debug\Shape.pdb
+E:\Freshman\HK5\ComputerGraphic\DrawGraphics\Shape\obj\Debug\Shape.dll
+E:\Freshman\HK5\ComputerGraphic\DrawGraphics\Shape\obj\Debug\Shape.pdb
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\bin\Debug\Shape.dll
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\bin\Debug\Shape.pdb
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\obj\Debug\Shape.dll
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\obj\Debug\Shape.pdb
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\obj\Debug\ShapeDrawings.csprojResolveAssemblyReference.cache
+E:\Freshman\HK5\ComGraphic\Deadline\1612842\Programs\Shape\bin\Debug\Shape.dll
+E:\Freshman\HK5\ComGraphic\Deadline\1612842\Programs\Shape\bin\Debug\Shape.pdb
+E:\Freshman\HK5\ComGraphic\Deadline\1612842\Programs\Shape\obj\Debug\ShapeDrawings.csprojResolveAssemblyReference.cache
+E:\Freshman\HK5\ComGraphic\Deadline\1612842\Programs\Shape\obj\Debug\Shape.dll
+E:\Freshman\HK5\ComGraphic\Deadline\1612842\Programs\Shape\obj\Debug\Shape.pdb

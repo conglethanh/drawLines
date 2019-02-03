@@ -1,0 +1,5 @@
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\bin\Release\Shape.dll
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\bin\Release\Shape.pdb
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\obj\Release\ShapeDrawings.csprojResolveAssemblyReference.cache
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\obj\Release\Shape.dll
+E:\Freshman\HK5\ComGraphic\DrawGraphics\Shape\obj\Release\Shape.pdb
